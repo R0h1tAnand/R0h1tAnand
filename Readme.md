@@ -5,7 +5,17 @@ An individual dedicated to becoming a proficient Cyber Security professional.
 -----------------------------------------------------------------------------
 
 
-<p><img width="50%" src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" /></p> <p><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=R0h1tAnand&theme=tokyonight" alt="R0h1tAnand" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0h1tAnand&theme=tokyonight" alt="R0h1tAnand" />
+    </td>
+  </tr>
+</table>
+
 * 🌍  I'm based in India.
 * 🧠  I'm currently learning Bash and Python.
 
