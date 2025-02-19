@@ -15,7 +15,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
     </td>
   </tr>
 </table>
-  <a href="https://github.com/R0h1tAnand"><img alt="R0h1tAnand's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0h1tAnand&langs_count=20&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
 * 🌍  I'm based in India.
 * 🧠  I'm currently learning Bash and Python.
 
