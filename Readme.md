@@ -22,6 +22,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
 
 <a href="https://www.github.com/R0h1tAnand" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/R0h1tAnand?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 
 ### Skills
