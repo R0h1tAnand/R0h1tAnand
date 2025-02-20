@@ -11,7 +11,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
       <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" />
     </td>
     <td>
-      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R0h1tAnand)](https://git.io/streak-stats)
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0h1tAnand" alt="R0h1tAnand" />
     </td>
   </tr>
 </table>
