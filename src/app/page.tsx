@@ -8,9 +8,11 @@ export default function Home() {
       <h1 className="animateLeft">
         Hi <span className="wave">👋</span> My name is Rohit Anand
       </h1>
-      <p className="animateLeft">An individual dedicated to becoming a proficient Cyber Security professional.</p>
       <p className="animateLeft">
-        🌍 I'm based in India.<br />🧠 I'm currently learning Bash and Python.
+        An individual dedicated to becoming a proficient Cyber Security professional.
+      </p>
+      <p className="animateLeft">
+        🌍 I&apos;m based in India.<br />🧠 I&apos;m currently learning Bash and Python.
       </p>
       <div className="followers animateLeft">
         Always trying to do better than yesterday......🙃
