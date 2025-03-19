@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Anand
+================================================================
 
-## Getting Started
+An individual dedicated to becoming a proficient Cyber Security professional.
+-----------------------------------------------------------------------------
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?usernAame=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=R0h1tAnand&theme=tokyonight-duo" alt="R0h1tAnand" />
+    </td>
+  </tr>
+</table>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* 🌍  I'm based in India.
+* 🧠  I'm currently learning Bash and Python.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<a href="https://www.github.com/R0h1tAnand" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/R0h1tAnand?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
-## Learn More
+<a href="https://www.github.com/R0h1tAnand" target="_blank" rel="noreferrer">
+  <img src="https://komarev.com/ghpvc/?username=R0h1tAnand&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
-To learn more about Next.js, take a look at the following resources:
+### Skills
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+</a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
-## Deploy on Vercel
+</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Socials
+
+<p align="left">
+  <a href="https://www.github.com/R0h1tAnand" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/r0hit-Anand" target="_blank" rel="noreferrer">
+      </a>
+  <a href="https://tryhackme.com/p/r0hit.A" target="_blank" rel="noreferrer">
+  <img src="https://assets.tryhackme.com/img/favicon.png" width="32" height="32" alt="TryHackMe" />
+</a>
+
+  </a>
+</p>
