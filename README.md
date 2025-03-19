@@ -8,7 +8,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?usernAame=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" />
+      <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" /></p>    
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=R0h1tAnand&theme=tokyonight-duo" alt="R0h1tAnand" />
