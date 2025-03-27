@@ -1,9 +1,6 @@
 ![](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&pause=1000&color=00AEEF&center=true&width=435&lines=Hi+there!+I%27m+Rohit+Anand+%F0%9F%91%8B;Cyber+Security+Enthusiast+%F0%9F%94%90;Ethical+Hacker+%F0%9F%91%81;CTF+Player+%F0%9F%A7%AA;Software+Engineer+%F0%9F%92%BB)
 
----
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Anand
-============================================================================
+==============================================================================
 
 An individual dedicated to becoming a proficient Cyber Security professional.
 -----------------------------------------------------------------------------
