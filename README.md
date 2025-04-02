@@ -90,7 +90,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/120px-Kali-dragon-icon.svg.png" width="36" height="36" alt="Kali Linux" />
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Wireshark_icon.svg/1024px-Wireshark_icon.svg.png" width="36" height="36" alt="Wireshark" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="36" height="36" alt="Wireshark" />
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://www.offsec.com/wp-content/uploads/2022/06/msf.png" width="36" height="36" alt="Metasploit" />
