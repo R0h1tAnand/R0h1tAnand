@@ -68,7 +68,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="36" height="36" alt="Django" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
@@ -87,25 +87,25 @@ An individual dedicated to becoming a proficient Cyber Security professional.
 #### 🔐 Cyber Security & Ethical Hacking:
 <p align="left">
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/120px-Kali-dragon-icon.svg.png" width="36" height="36" alt="Kali Linux" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="40" height="40" alt="Kali Linux" />
   </a>
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="36" height="36" alt="Wireshark" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="30" height="33" alt="Wireshark" />
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.offsec.com/wp-content/uploads/2022/06/msf.png" width="36" height="36" alt="Metasploit" />
+    <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="36" height="36" alt="Metasploit" />
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BurpSuiteLogo.png/300px-BurpSuiteLogo.png" width="36" height="36" alt="Burp Suite" />
+    <img src="https://i.ibb.co/cvvB9qJ/burpsuite.png" width="36" height="36" alt="Burp Suite" />
   </a>
   <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Aircrack-ng_logo.svg/120px-Aircrack-ng_logo.svg.png" width="36" height="36" alt="Aircrack-ng" />
+    <img src="https://cdn.prod.website-files.com/64c2362fbaf5db5f0fbefd68/655758f4a0cc090fa19e5847_aircrack-ng-logo.svg" width="36" height="36" alt="Aircrack-ng" />
   </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nmap-logo-light.svg/128px-Nmap-logo-light.svg.png" width="36" height="36" alt="Nmap" />
+    <img src="https://nmap.org/images/nmap-logo-256x256.png" width="36" height="36" alt="Nmap" />
   </a>
   <a href="https://github.com/sqlmapproject/sqlmap" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Sqlmap_logo.png" width="36" height="36" alt="SQLMap" />
+    <img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" width="" height="36" alt="SQLMap" />
   </a>
 </p>
 
@@ -117,7 +117,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
 
 <p align="left">
   <a href="https://www.github.com/R0h1tAnand" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x2048-eyd5tyuo.png" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/r0hit-Anand" target="_blank" rel="noreferrer">
       </a>
