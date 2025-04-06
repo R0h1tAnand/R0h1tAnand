@@ -125,4 +125,3 @@ An individual dedicated to becoming a proficient Cyber Security professional.
   <img src="https://assets.tryhackme.com/img/favicon.png" width="32" height="32" alt="TryHackMe" />
 </a>
 </p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2206265" style='border:none;'></iframe>
