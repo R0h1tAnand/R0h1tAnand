@@ -19,6 +19,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
     </td>
   </tr>
 </table>
+[![TryHackMe Badge](https://thm-github-badge-generator.vercel.app/badge?user=2206265)](https://tryhackme.com/p/r0hit.A)
 
 * 🌍 I'm based in India.
 * 🧠 I'm currently learning Bash and Python.
@@ -125,6 +126,3 @@ An individual dedicated to becoming a proficient Cyber Security professional.
   <img src="https://assets.tryhackme.com/img/favicon.png" width="32" height="32" alt="TryHackMe" />
 </a>
 </p>
-
-
-[![TryHackMe Badge](https://thm-github-badge-generator.vercel.app/badge?user=2206265)](https://tryhackme.com/p/r0hit.A)
