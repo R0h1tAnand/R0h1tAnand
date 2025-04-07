@@ -12,15 +12,24 @@ An individual dedicated to becoming a proficient Cyber Security professional.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" /></p>    
+      <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=R0h1tAnand&theme=buefy-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="R0h1tAnand" /></p>
+      <img src="https://streak-stats.demolab.com?user=R0h1tAnand&theme=buefy-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="R0h1tAnand" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://tryhackme.com/p/r0hit.A" target="_blank">
+        <img src="https://thm-github-badge-generator.vercel.app/badge?user=2206265" alt="TryHackMe Badge" />
+      </a>
+    </td>
+    <td>
+      <!-- You can add whatever you want here -->
+      <p>Coming Soon...</p>
     </td>
   </tr>
 </table>
-
-[![TryHackMe Badge](https://thm-github-badge-generator.vercel.app/badge?user=2206265)](https://tryhackme.com/p/r0hit.A)
 
 * 🌍 I'm based in India.
 * 🧠 I'm currently learning Bash and Python.
