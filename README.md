@@ -21,7 +21,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
   <tr>
     <td>
       <a href="https://tryhackme.com/p/r0hit.A" target="_blank">
-        <img src="https://thm-github-badge-generator.vercel.app/badge?user=2206265" alt="TryHackMe Badge" />
+        <img src="https://thm-github-badge-generator.vercel.app/badge?user=2206265" alt="r0hit.A" />
       </a>
     </td>
     <td>
