@@ -9,22 +9,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 An individual dedicated to becoming a proficient Cyber Security professional.
 -----------------------------------------------------------------------------
 
-<table>
+<table >
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" />
+      <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" height=200 width=910 />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=R0h1tAnand&theme=buefy-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="R0h1tAnand" />
+      <img src="https://streak-stats.demolab.com?user=R0h1tAnand&theme=buefy-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="R0h1tAnand" height=200 width=900/>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://tryhackme.com/p/r0hit.A" target="_blank">
-        <img src="https://thm-github-badge-generator.vercel.app/badge?user=2206265" alt="r0hit.A" />
+        <img src="https://thm-github-badge-generator.vercel.app/badge?user=2206265" alt="r0hit.A"/>
       </a>
     </td>
-    <td>
+    <td text-align=center>
       <!-- You can add whatever you want here -->
       <p>Coming Soon...</p>
     </td>
