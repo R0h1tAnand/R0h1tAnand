@@ -25,7 +25,6 @@ An individual dedicated to becoming a proficient Cyber Security professional.
       </a>
     </td>
     <td text-align=center>
-      <!-- You can add whatever you want here -->
       <center><p>Coming Soon...</p><center>
     </td>
   </tr>
