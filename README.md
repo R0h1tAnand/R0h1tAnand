@@ -9,10 +9,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 An individual dedicated to becoming a proficient Cyber Security professional.
 -----------------------------------------------------------------------------
 
-<table >
+<table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" height=200 width=910 />
+      <img src="https://github-readme-stats.vercel.app/api?username=R0h1tAnand&show_icons=true&locale=en&theme=tokyonight" alt="R0h1tAnand" height="200" width="910" />
     </td>
     <td>
       <img src="https://github-streak-stats-dun.vercel.app?user=R0h1tAnand&theme=buefy-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="R0h1tAnand" height="200" width="900"/>
@@ -20,13 +20,16 @@ An individual dedicated to becoming a proficient Cyber Security professional.
   </tr>
   <tr>
     <td>
-      [![TryHackMe Badge](https://thm-github-badge-generator.vercel.app/badge?user=2206265)](https://tryhackme.com/p/r0hit.A)
+      <a href="https://tryhackme.com/p/r0hit.A" target="_blank">
+        <img src="https://thm-github-badge-generator.vercel.app/badge?user=2206265" alt="TryHackMe Badge" />
+      </a>
     </td>
-    <td text-align=center>
-      <center><p>Coming Soon...</p><center>
+    <td style="text-align: center;">
+      <center><p>Coming Soon...</p></center>
     </td>
   </tr>
 </table>
+
 
 * 🌍 I'm based in India.
 * 🧠 I'm currently learning Bash and Python.
