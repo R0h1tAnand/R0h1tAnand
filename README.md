@@ -25,7 +25,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
       </a>
     </td>
     <td style="text-align: center;">
-      <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0h1tAnand&theme=dark&hide_border=false&include_all_commits=true&count_private=True&layout=compact"/></center>
+      <center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0h1tAnand&theme=dark&hide_border=false&include_all_commits=true&count_private=True"/></center>
     </td>
   </tr>
 </table>
