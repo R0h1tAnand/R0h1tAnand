@@ -25,7 +25,7 @@ An individual dedicated to becoming a proficient Cyber Security professional.
       </a>
     </td>
     <td style="text-align: center;">
-      [![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0h1tAnand)](https://github.com/anuraghazra/github-readme-stats)
+      Coming soon
     </td>
   </tr>
 </table>
