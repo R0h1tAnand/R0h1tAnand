@@ -1,8 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Anand
-=======================================================================================
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&pause=1000&color=00AEEF&center=true&width=435&lines=Hi+there!+I%27m+Rohit+Anand+%F0%9F%91%8B;Cyber+Security+Enthusiast+%F0%9F%94%90;Ethical+Hacker+%F0%9F%91%81;CTF+Player+%F0%9F%A7%AA;Software+Engineer+%F0%9F%92%BB)
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono&size=25&pause=1000&color=42D8F7&background=2BFF0C00&vCenter=true&random=true&width=435&lines=Hey+there%2C+This+is+Rohit+Anand+%F0%9F%99%83+!!+;Cyber+Security+Enthusiast+!!!+%F0%9F%A4%96;Penetration+Tester+!!+%F0%9F%92%A2;Bug+Hunter+!!+%F0%9F%90%9B;Ethical+Hacker+%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F;CTF+Player+%F0%9F%A7%AA;Software+Engineer+%F0%9F%92%BB%EF%B8%8F)](https://git.io/typing-svg)
 
 ---
 
