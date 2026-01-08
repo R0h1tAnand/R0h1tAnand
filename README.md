@@ -79,7 +79,7 @@ https://r0h1tanand.github.io/
 </p>
 
 #### 🛠️ Software Development & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=arch,anaconda,androidstudio,apple,arduino,atom,aws,azure,blender,cloudflare,debian,docker,figma,firebase,flask,git,github,jenkins,kubernetes,linux,matlab,mint,neovim,nginx,postgres,postman,powershell,pycharm,raspberrypi,redhat,replit,rocket,spring,stackoverflow,sublime,supabase,solidity,tailwindcss,ubuntu,unreal,vim,vscode,windows,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,anaconda,androidstudio,apple,arduino,atom,aws,azure,gcp,blender,cloudflare,debian,docker,figma,firebase,flask,git,github,jenkins,kubernetes,linux,matlab,mint,neovim,nginx,postgres,postman,powershell,pycharm,raspberrypi,redhat,replit,rocket,spring,stackoverflow,sublime,supabase,solidity,tailwindcss,ubuntu,unreal,vim,vscode,windows,&theme=dark)](https://skillicons.dev)
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" />
