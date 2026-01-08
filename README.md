@@ -52,11 +52,26 @@ https://r0h1tanand.github.io/
 ### Skills
 
 #### 🖥️ Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,bash,c,cs,cpp,cmake,express,fastapi,gtk,html,htmx,js,latex,lua,md,mysql,nextjs,php,py,r,react,redis,rust,sqlite,ts,vite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,rust&theme=dark)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=py,r,lua,bash,latex,cmake,md&theme=dark)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,php,mysql,sqlite,redis&theme=dark)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,htmx,express,fastapi,gtk&theme=dark)](https://skillicons.dev)
 
 ---
+
 #### 🛠️ Software Development & Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=arch,anaconda,androidstudio,apple,arduino,atom,aws,azure,gcp,blender,cloudflare,debian,docker,figma,firebase,flask,git,github,jenkins,kubernetes,linux,matlab,mint,neovim,nginx,postgres,postman,powershell,pycharm,raspberrypi,redhat,replit,rocket,spring,stackoverflow,sublime,supabase,solidity,tailwindcss,ubuntu,unreal,vim,vscode,windows,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,mint,redhat,windows,apple,androidstudio&theme=dark)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,jenkins,nginx&theme=dark)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,sublime,atom,vim,neovim,replit&theme=dark)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=postgres,firebase,supabase,flask,spring,rocket,tailwindcss,solidity&theme=dark)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,anaconda,matlab,figma,blender,unreal,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 
 ---
 #### 🔐 Cyber Security & Ethical Hacking:
