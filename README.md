@@ -40,10 +40,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=R0h1tAnand&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" alt="R0h1tAnand" height="200" width="910" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=R0h1tAnand&show_icons=true&theme=tokyonight" alt="R0h1tAnand" height="200" width="910" />
     </td>
     <td>
-      <img src="https://github-streak-sigma.vercel.app/?user=R0h1tAnand&theme=tokyonight&border_radius=10" alt="R0h1tAnand" height="200" width="910" />
+      <p><img src="https://github-streak-sigma.vercel.app/?user=R0h1tAnand&theme=tokyonight" alt="R0h1tAnand" height="200" width="910" /></p>
     </td>
   </tr>
   <tr>
@@ -52,11 +52,12 @@
         <img src="https://thm-github-badge-generator.vercel.app/badge?user=2206265" alt="TryHackMe Badge" />
       </a>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HackTheBox-Coming%20Soon-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+    <td style="text-align: center;">
+      Coming soon
     </td>
   </tr>
 </table>
+
 
 ---
 
