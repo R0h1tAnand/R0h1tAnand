@@ -34,8 +34,6 @@
 
 ---
 
-## `./stats --user R0h1tAnand`
-
 <table>
   <tr>
     <td>
@@ -60,7 +58,6 @@
 
 ---
 
-## `./skills --category security`
 
 ```
 [*] Initializing security toolkit...
@@ -93,20 +90,13 @@
 
 ---
 
-## `./skills --category languages`
-
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,rust,py,r,lua,bash,latex,cmake,md,html,js,ts,php,mysql,sqlite,redis,react,nextjs,vite,htmx,express,fastapi,gtk&theme=dark)](https://skillicons.dev)
 
 ---
 
-## `./skills --category devtools`
-
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,mint,redhat,windows,apple,vscode,androidstudio,pycharm,sublime,atom,vim,neovim,replit,postgres,firebase,supabase,flask,spring,rocket,tailwindcss,solidity,git,github,postman,anaconda,matlab,figma,blender,unreal,arduino,raspberrypi,aws,azure,gcp,cloudflare,docker,kubernetes,jenkins,nginx&theme=dark)](https://skillicons.dev)
 
 ---
-
-## `./socials --connect`
-
 <p align="left">
   <a href="https://www.github.com/R0h1tAnand" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-R0h1tAnand-181717?style=for-the-badge&logo=github&logoColor=white" />
