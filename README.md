@@ -131,12 +131,6 @@
 
 ---
 
-## `./stats --contribution-graph`
-
-<img src="https://github-streak-stats-dun.vercel.app?user=R0h1tAnand&theme=buefy-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="R0h1tAnand" height="200" width="900"/>
-
----
-
 <div align="center">
 
 ```
