@@ -8,8 +8,7 @@
 ██║  ██║╚██████╔╝██║  ██║██║   ██║       ██║  ██║██║ ╚████║██║  ██║██║ ╚████║██████╔╝
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
 ```
-
-![wave](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  **`whoami`** → Rohit Anand
+**`whoami`** → Rohit Anand
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=42D8F7&background=2BFF0C00&vCenter=true&random=true&width=500&lines=Hey+there%2C+This+is+Rohit+Anand+%F0%9F%99%83+!!+;Cyber+Security+Enthusiast+!!!+%F0%9F%A4%96;Penetration+Tester+!!+%F0%9F%92%A2;Bug+Hunter+!!+%F0%9F%90%9B;Ethical+Hacker+%F0%9F%91%81%EF%B8%8F%E2%80%8D%F0%9F%97%A8%EF%B8%8F;CTF+Player+%F0%9F%A7%AA;Software+Engineer+%F0%9F%92%BB%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -35,7 +34,7 @@
 
 ---
 
-## 📊 `./stats --user R0h1tAnand`
+## `./stats --user R0h1tAnand`
 
 <table>
   <tr>
@@ -61,7 +60,7 @@
 
 ---
 
-## 🔐 `./skills --category security`
+## `./skills --category security`
 
 ```
 [*] Initializing security toolkit...
@@ -94,19 +93,19 @@
 
 ---
 
-## 🖥️ `./skills --category languages`
+## `./skills --category languages`
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,rust,py,r,lua,bash,latex,cmake,md,html,js,ts,php,mysql,sqlite,redis,react,nextjs,vite,htmx,express,fastapi,gtk&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 🛠️ `./skills --category devtools`
+## `./skills --category devtools`
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,mint,redhat,windows,apple,vscode,androidstudio,pycharm,sublime,atom,vim,neovim,replit,postgres,firebase,supabase,flask,spring,rocket,tailwindcss,solidity,git,github,postman,anaconda,matlab,figma,blender,unreal,arduino,raspberrypi,aws,azure,gcp,cloudflare,docker,kubernetes,jenkins,nginx&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 📡 `./socials --connect`
+## `./socials --connect`
 
 <p align="left">
   <a href="https://www.github.com/R0h1tAnand" target="_blank" rel="noreferrer">
@@ -132,7 +131,7 @@
 
 ---
 
-## 📈 `./stats --contribution-graph`
+## `./stats --contribution-graph`
 
 <img src="https://github-streak-stats-dun.vercel.app?user=R0h1tAnand&theme=buefy-dark&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="R0h1tAnand" height="200" width="900"/>
 
