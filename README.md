@@ -29,9 +29,6 @@
 > Learning: PowerShell Scripting & Python
 > Status  : [▓▓▓▓▓▓▓▓░░] Leveling Up...
 ```
-
-> *"The quieter you become, the more you are able to hear."* — Kali Linux
-
 ---
 
 <table>
