@@ -38,7 +38,7 @@ Cyber Security Professional from India focused on **Penetration Testing**, **Bug
 
 | GitHub Stats | GitHub Streak |
 |:---:|:---:|
-| <img src="https://github-readme-stats-fast.vercel.app/api?username=R0h1tAnand&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" /> | <img src="https://github-streak-sigma.vercel.app/?user=R0h1tAnand&theme=tokyonight" alt="GitHub Streak" height="200" /> |
+| <img src="https://github-readme-stats-fast.vercel.app/api?username=R0h1tAnand&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200" /> | <img src="https://streak-stats.demolab.com?user=R0h1tAnand&theme=radical&hide_border=true" alt="GitHub Streak" height="200" /> |
 
 </div>
 
