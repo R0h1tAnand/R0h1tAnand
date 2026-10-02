@@ -47,39 +47,3 @@ Cyber Security Professional from India focused on **Penetration Testing**, **Bug
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=R0h1tAnand&theme=tokyo-night&hide_border=true&area=true&color=ff3b3b&line=ff3b3b&point=ffffff)](https://github.com/R0h1tAnand)
 
 </div>
-
----
-
-<div align="center">
-
-### Security Tools
-
-<a href="https://www.kali.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="40" height="40" alt="Kali Linux" title="Kali Linux"/></a>&nbsp;
-<a href="https://www.wireshark.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="40" height="40" alt="Wireshark" title="Wireshark"/></a>&nbsp;
-<a href="https://www.metasploit.com/" target="_blank"><img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" width="40" height="40" alt="Metasploit" title="Metasploit"/></a>&nbsp;
-<a href="https://portswigger.net/burp" target="_blank"><img src="https://i.ibb.co/cvvB9qJ/burpsuite.png" width="40" height="40" alt="Burp Suite" title="Burp Suite"/></a>&nbsp;
-<a href="https://www.aircrack-ng.org/" target="_blank"><img src="https://cdn.prod.website-files.com/64c2362fbaf5db5f0fbefd68/655758f4a0cc090fa19e5847_aircrack-ng-logo.svg" width="40" height="40" alt="Aircrack-ng" title="Aircrack-ng"/></a>&nbsp;
-<a href="https://nmap.org/" target="_blank"><img src="https://nmap.org/images/nmap-logo-256x256.png" width="40" height="40" alt="Nmap" title="Nmap"/></a>&nbsp;
-<a href="https://github.com/sqlmapproject/sqlmap" target="_blank"><img src="https://www.vaadata.com/blog/wp-content/uploads/2024/05/exploiting-sqli-with-sqlmap.png" height="40" alt="SQLMap" title="SQLMap"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-### Languages & Frameworks
-
-[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,rust,py,r,lua,bash,latex,cmake,md,html,js,ts,php,mysql,sqlite,redis,react,nextjs,vite,htmx,express,fastapi,gtk&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-<div align="center">
-
-### Tools & Platforms
-
-[![Tools](https://skillicons.dev/icons?i=linux,arch,debian,ubuntu,mint,redhat,windows,apple,vscode,androidstudio,pycharm,sublime,atom,vim,neovim,replit,postgres,firebase,supabase,flask,spring,rocket,tailwindcss,solidity,git,github,postman,anaconda,matlab,figma,blender,unreal,arduino,raspberrypi,aws,azure,gcp,cloudflare,docker,kubernetes,jenkins,nginx&theme=dark)](https://skillicons.dev)
-
-</div>
