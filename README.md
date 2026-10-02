@@ -44,6 +44,6 @@ Cyber Security Professional from India focused on **Penetration Testing**, **Bug
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=R0h1tAnand&theme=tokyo-night&hide_border=true&area=true&color=ff3b3b&line=ff3b3b&point=ffffff)](https://github.com/R0h1tAnand)
+[![Activity Graph](https://github-activity-graph.luckylinux.dev/graph?username=R0h1tAnand&theme=tokyo-night&hide_border=true&area=true&color=ff3b3b&line=ff3b3b&point=ffffff)](https://github.com/R0h1tAnand)
 
 </div>
